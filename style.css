@@ -1,0 +1,70 @@
+h1 {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+p {
+    font-size: 30px;
+}
+
+.link-list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.shrimp-link {
+    color: rgb(255, 50, 50);
+}
+
+.chili-link {
+    color: rgb(255, 206, 29);
+}
+
+.haddock-link {
+    color: blue;
+}
+
+.apology {
+    font-size: 12px;
+}
+
+.ingredients {
+    background-color: black;
+    text-align: center
+}
+
+.ingredients .section-label {
+    font-size: 40px;
+    color: white;
+}
+
+.ingredients .list {
+    list-style: none;
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+}
+
+.directions {
+    background-color: rgb(175, 80, 175);
+}
+
+.directions .section-label {
+    font-size: 40px;
+}
+
+.directions .list {
+    font-size: 20px;
+    list-style: upper-roman;
+
+}
+
+.source-link {
+    font-size: 30px;
+}
